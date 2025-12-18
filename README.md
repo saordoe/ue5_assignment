@@ -1,4 +1,5 @@
 ## UE5 Project Outline
+### IMPORTANT: I had lots of trouble pushing to this repo. Here is the latest repo: https://github.com/saordoe/unreal-final
 ### NPC Dialogue / Interaction
 - Relevant files: BP_Korok, S_Dialogue, DT_Dialogue, widget UI blueprints
 - Implemented a NPC dialogue system using data tables
